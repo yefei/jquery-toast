@@ -1,2 +1,6 @@
-# jquery.toast
+# jquery-toast
 Simple jQuery toast
+
+```javascript
+$.toast("Hello World!")
+```
